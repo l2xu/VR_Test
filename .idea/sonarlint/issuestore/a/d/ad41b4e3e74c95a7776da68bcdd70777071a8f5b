@@ -1,0 +1,4 @@
+
+ csharpsquid:S101"„Rename class 'Janas_Script_aka_dasBessereScript' to match pascal case naming rules, consider using 'JanasScriptakadasBessereScript'.(¥œÝ
+\csharpsquid:S3903"@Move 'Janas_Script_aka_dasBessereScript' into a named namespace.(¥œÝ
+›csharpsquid:S1186"yAdd a nested comment explaining why this method is empty, throw a 'NotSupportedException' or complete the implementation.(®±®“üÿÿÿÿ
