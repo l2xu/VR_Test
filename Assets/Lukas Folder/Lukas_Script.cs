@@ -9,6 +9,7 @@ public class Lukas_Script : MonoBehaviour
     {
         Debug.Log("Lukas hat vielleicht CORONA, YIHAAAA");
         Debug.Log("oh noo");
+        Debug.Log("Gute Besserung");
     }
 
     // Update is called once per frame
