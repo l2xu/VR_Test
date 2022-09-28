@@ -2,13 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Lukas_Script : MonoBehaviour
+public class Janas_Script_aka_dasBessereScript : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Lukas hat vielleicht CORONA, YIHAAAA");
-        Debug.Log("oh noo");
+        print("Lukas kennt keine ; was ein vergesslicher Typ");
     }
 
     // Update is called once per frame
